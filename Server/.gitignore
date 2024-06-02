@@ -1,0 +1,8 @@
+# Dependencies output
+node_modules
+
+# Enviropment vars
+.env
+
+# Code Format
+.prettierrc
